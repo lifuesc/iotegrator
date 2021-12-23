@@ -9,3 +9,4 @@ app.use('/api/transactions', router);
 
 app.listen(config.get('api.port'), () => 
 console.log('Middleware online!'));
+// teste
